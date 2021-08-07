@@ -190,3 +190,7 @@ dist
 
 # Image Cache Directory
 .imgcache
+
+# data dir
+data/**/*
+!data/.gitignore
